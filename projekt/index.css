@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    width: 100%;
+    background-color: black;
+}
+
+.navbar ul li {
+    list-style-type: none;
+    color: #fff;
+}
